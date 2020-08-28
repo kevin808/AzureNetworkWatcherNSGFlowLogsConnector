@@ -29,7 +29,7 @@ In the Application Settings of your Azure Function:
    Example: For standard tier, S2, set a value from 1 to 10  
    (only relevant for ServicePlan)  
 * githubRepoURL                     - this is the URL of the repo that contains the function app source. You would put your fork's address here.  
-   Example: ```https://github.com/microsoft/AzureNetworkWatcherNSGFlowLogsConnector```  
+   Example: ```https://github.com/kevin808/AzureNetworkWatcherNSGFlowLogsConnector```  
 * githubRepoBranch                  - this is the name of the branch containing the code you want to deploy.  
    Example: ```master```  
 * nsgSourceDataConnection     - a storage account connection string  
